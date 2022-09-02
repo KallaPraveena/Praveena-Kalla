@@ -1,7 +1,7 @@
-[![MasterHead]([https://i.pinimg.com/originals/6b/fb/cc/6bfbccdeee668c91d1427aeba0217431.gif](https://i.pinimg.com/originals/3f/81/09/3f8109af399a22a6a537cf513388a517.gif))](https://praveena.io)
+[![MasterHead]([https://thumbs.dreamstime.com/b/green-nature-banner-flower-water-drops-black-background-66151915.jpg])](https://praveena.io)
 <h1 align="center">Hi 👋, I'm Praveena</h1>
 <h3 align="center">Have passion to work on energy and data science....</h3>
-<img align=”right” alt=”coding” width=”400” src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.creativefabrica.com%2Fwp-content%2Fuploads%2F2020%2F12%2F09%2F1607500149%2FGirl-coder-580x386.jpg&imgrefurl=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fgirl-coder-5%2F&tbnid=_ve4RGpn2V30iM&vet=12ahUKEwig6PSy8PX5AhXTRGwGHeVFA1EQxiAoCnoECAAQMw..i&docid=aS3DD6msHmkc5M&w=580&h=386&itg=1&q=girl%20coding%20animated%20gif&hl=en&ved=2ahUKEwig6PSy8PX5AhXTRGwGHeVFA1EQxiAoCnoECAAQMw#imgrc=_ve4RGpn2V30iM&imgdii=qxKp-qMrimMqoM”>
+<img align=”right” alt=”coding” width=”400” src=https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveena&label=Profile%20views&color=0e75b6&style=flat" alt="praveena" /> </p>
 
