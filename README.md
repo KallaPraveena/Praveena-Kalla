@@ -1,7 +1,7 @@
-[![MasterHead]([https://thumbs.dreamstime.com/b/green-nature-banner-flower-water-drops-black-background-66151915.jpg])](https://praveena.io)
-<h1 align="center">Hi 👋, I'm Praveena</h1>
+[![MasterHead](https://thumbs.dreamstime.com/b/green-nature-banner-flower-water-drops-black-background-66151915.jpg)](https://praveena.io)
+<h1 align="center">Hi, I'm Praveena</h1>
 <h3 align="center">Have passion to work on energy and data science....</h3>
-<img align=”right” alt=”coding” width=”400” src=https://pbs.twimg.com/profile_images/1325796904312082433/rXdk-G67_400x400.jpg”>
+<img align=”right” alt=”Coding” width=”400” src="https://thumbs.dreamstime.com/z/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveena&label=Profile%20views&color=0e75b6&style=flat" alt="praveena" /> </p>
 
